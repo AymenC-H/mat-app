@@ -1,14 +1,14 @@
 # Applications sur les matrices
-## C'est une appication créer avec python et la bibliothèque PyQt5
+## C'est une appication créée avec la bibliothèque PyQt5 sur Python
 ### Les opérations valables sont:
 - Trouver la matrice inverse
-- Résolution d'un système (n équations n inconnues)
-- Calcul du déterminant d'une matrice (max 10x10)
-- Affichage du transposer de la matrice donnée
-- Calcul de la somme et soustraction de deux matrices
-- Calcul de la comatrice d'une matrice donnée
+- Résoudre un système (n équations n inconnues)
+- Calculer le déterminant d'une matrice (max 10x10)
+- Afficher le transposer de la matrice donnée
+- Calculer la somme ou soustraction de deux matrices
+- Calculer la comatrice d'une matrice donnée
 
-Il y a la possibilité de sauvegarder les matrices et les récupérer prochainements
+Il y a la possibilité de sauvegarder tout les matrices et les récupérer
 
 L'interface de l'application est basique et les couleurs de l'application peuvent devenir très claires à cause du dark mode.
 
